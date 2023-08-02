@@ -1,1 +1,2 @@
-script printing the current working directury
+script printing
+ the current working directury
