@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#print string for a given num using while
+i=0
+while ((i < 10)); do
+    echo "Best School"
+    ((i++))
+done
