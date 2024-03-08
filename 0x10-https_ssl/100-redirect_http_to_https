@@ -46,5 +46,5 @@ frontend FT43-tech-https_front
 
 backend FT43-tech-backend
         balance roundrobin
-        server 195416-web-01 54.237.65.133 check
-        server 195416-web-02 54.158.224.117 check
+        server 195416-web-01 54.237.65.133:80 check
+        server 195416-web-02 54.158.224.117:80 check
